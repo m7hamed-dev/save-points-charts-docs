@@ -67,25 +67,25 @@ LineChartWidget(
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.01%20AM.png" alt="Screenshot 1" width="800"/>
+![Screenshot 1](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-01.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.04%20AM.png" alt="Screenshot 2" width="800"/>
+![Screenshot 2](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-02.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.07%20AM.png" alt="Screenshot 3" width="800"/>
+![Screenshot 3](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-03.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.09%20AM.png" alt="Screenshot 4" width="800"/>
+![Screenshot 4](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-04.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.12%20AM.png" alt="Screenshot 5" width="800"/>
+![Screenshot 5](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-05.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.14%20AM.png" alt="Screenshot 6" width="800"/>
+![Screenshot 6](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-06.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.16%20AM.png" alt="Screenshot 7" width="800"/>
+![Screenshot 7](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-07.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.18%20AM.png" alt="Screenshot 8" width="800"/>
+![Screenshot 8](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-08.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.33%20AM.png" alt="Screenshot 9" width="800"/>
+![Screenshot 9](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-09.png)
 
-<img src="https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/Screenshot%201447-06-04%20at%209.06.36%20AM.png" alt="Screenshot 10" width="800"/>
+![Screenshot 10](https://raw.githubusercontent.com/m7hamed-dev/save-points-charts-docs/main/screenshots/screenshot-10.png)
 
 </div>
 
