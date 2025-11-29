@@ -63,6 +63,32 @@ LineChartWidget(
 )
 ```
 
+## 📸 Screenshots
+
+<div align="center">
+
+![Screenshot 1](screenshots/Screenshot%201447-06-04%20at%209.06.01%20AM.png)
+
+![Screenshot 2](screenshots/Screenshot%201447-06-04%20at%209.06.04%20AM.png)
+
+![Screenshot 3](screenshots/Screenshot%201447-06-04%20at%209.06.07%20AM.png)
+
+![Screenshot 4](screenshots/Screenshot%201447-06-04%20at%209.06.09%20AM.png)
+
+![Screenshot 5](screenshots/Screenshot%201447-06-04%20at%209.06.12%20AM.png)
+
+![Screenshot 6](screenshots/Screenshot%201447-06-04%20at%209.06.14%20AM.png)
+
+![Screenshot 7](screenshots/Screenshot%201447-06-04%20at%209.06.16%20AM.png)
+
+![Screenshot 8](screenshots/Screenshot%201447-06-04%20at%209.06.18%20AM.png)
+
+![Screenshot 9](screenshots/Screenshot%201447-06-04%20at%209.06.33%20AM.png)
+
+![Screenshot 10](screenshots/Screenshot%201447-06-04%20at%209.06.36%20AM.png)
+
+</div>
+
 ## 📦 Dependencies
 
 - **Zero external dependencies!** - Uses only Flutter SDK
